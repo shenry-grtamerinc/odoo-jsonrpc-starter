@@ -138,7 +138,7 @@ This request reads the database name from the current Odoo session. It does not 
 
 ## Environment variables
 
-Create a local `.env` file in the same project folder:
+Create a local `.env` file in the same project folder.
 Reference `.env.example` for how to create this.
 
 Never upload the real `.env` file to GitHub. Store only placeholder variable
