@@ -26,7 +26,6 @@ from dotenv import load_dotenv
 # ---------------------------------------------------------------------------
 
 # First keep api keys and passwords in .env instead of hard-coding them here.
-# You should add .env to .gitignore so GitHub never receives those.
 load_dotenv()
 
 # ODOO_BASE tells my script where the Odoo server is.
